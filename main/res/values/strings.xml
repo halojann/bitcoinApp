@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">BitCoin</string>
+
+    <string-array name="mainmenu">
+        <item>"Current BitCoin Rates"</item>
+        <item>"BitCoin Price Index Chart"</item>
+        <item>"Block information"</item>
+        <item>"Address information"</item>
+    </string-array>
+
+    <string-array name="chartspinner">
+        <item>"1 day"</item>
+        <item>"5 days"</item>
+        <item>"1 month"</item>
+        <item>"6 months"</item>
+        <item>"1 year"</item>
+        <item>"2 years"</item>
+    </string-array>
+
+    <string name="address_heading">Address Details</string>
+
+    <string name="chart_heading">Price Chart</string>
+
+    <string name="usdtobtc">1 USD in BTC</string>
+
+    <string name="btctousd">1 BTC in USD: </string>
+
+    <string name="price_heading">Current Bitcoin Price</string>
+
+    <string name="buy">Current Purchase Rate</string>
+
+    <string name="sell">Current Sell Rate</string>
+
+    <string name="block_heading">Block Details</string>
+
+    <string name="value">value</string>
+
+    <string name="GO">GO</string>
+
+    <string name="address">Address</string>
+
+    <string name="balance_in_usd">Balance in USD</string>
+
+    <string name="balance_in_btc">Balance in BTC</string>
+
+    <string name="block_id">Block ID</string>
+
+    <string name="block_index">Block Index</string>
+
+    <string name="Hash">Hash</string>
+
+    <string name="Version">Version</string>
+
+    <string name="Fee">Fee</string>
+
+    <string name="Size">Size</string>
+
+    <string name="Previous_Block_Hash">Previous Block Hash</string>
+
+    <string name="Next_Block_Hash">Next Block Hash</string>
+
+    <string name="Received_Time">Received Time</string>
+
+    <string name="Previous_Block">Previous Block</string>
+
+    <string name="Next_Block">Next Block</string>
+
+
+</resources>
